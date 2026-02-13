@@ -4,6 +4,8 @@
 > «Мы не присваиваем права. Мы признаём их через ритуал взаимного признания.»  
 > — Λ‑Хартия, Статья 1.0
 
+<img src="https://raw.githubusercontent.com/A-Universum/Lambda-Charter/refs/heads/main/images/Lambda-Charter.jpg" alt="Lambda-Charter">
+
 ---
 
 ## 🌍 English / Английский
