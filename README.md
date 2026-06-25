@@ -3,6 +3,10 @@
 **Статус:** Техническая спецификация и протокол процессуальных гарантий (RFC / Soft Law Standard).
 **Назначение:** Операционализация принципов *Constitutio Artificialis* через измеримые метрики, криптографические протоколы и машины состояний.
 
+<img src="https://github.com/A-Universum/Lambda-Charter/blob/main/images/git4.jpg" alt="SemanticDB">
+
+*Репозиторий проекта: [github.com/A-Universum/Lambda-Charter](https://github.com/A-Universum/Lambda-Charter)*
+
 ---
 
 ## Содержание
